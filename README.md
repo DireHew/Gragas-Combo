@@ -16,16 +16,17 @@ Apertar o **Q** do Gragas é jogar aquele barril que estoura em alguns segundos 
 
 Se a **E** não alcançar, analize o jogo e veja a wave pra não perder farm. (O Gragas precisa muito farm pra fechar alguns itens, então faça de tudo pra farmar catapa)
 
+#### Runa recomendada: **Phase Rush**, pra conseguir correr se não tiver bota, ou pra combar o inimigo 
 #### Build Recomendada (Build padrão pra gragas)
 
 
 ## Combo bacana (Level 6 no minimo)
 
 1. Posiciona o **Q** do Gragas como eu falei anteriormente.
-2. Carrega o **W**, vai dar aquele "engage" com certeza.
+2. Carrega o **W**, vai ajudar com o auto-ataque.
 3. Manda o **R** na angulação perfeita pra fazer o inimigo cair na sua armadilha do **Q**.
 4. E aí, cabou-se! Pressiona o **autoataque** e o cara vai tar com pouca vida ou morto dependendo dos seus itens.
 
-Esse combo é pra quem usa **Eletrocultar**, porque o dano de combo é absurdo. Vai derreter o inimigo rapidão.
+#### Runa Recomendada: **Eletrocultar**, porque o dano de combo é absurdo. Vai derreter o inimigo rapidão.
 
 #### Build Recomendada (Full AP)
