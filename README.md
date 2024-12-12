@@ -2,6 +2,8 @@
 
 Apertar o **Q** do Gragas é jogar aquele barril que estoura em alguns segundos ou quando você quiser. O dano da explosão dependendo da build é bacana. Já a **ult** do Gragas é outro tipo de barril, ele explode e da IK em alguns inimigos com pouca vida, ele puxa ou empurra os inimigos em sua grande utilidade. O **W** aumenta o dano do auto-ataque e a **E** é aquela barrigada que stunna.
 
+### Spels: Flash & TP
+
 #### Cuidado com a sua mana, o Gragas gasta muita mana com habilidades!
 
 ### Combo Básico (Level 7 Requerido)
