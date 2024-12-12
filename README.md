@@ -15,7 +15,8 @@ Apertar o **Q** do Gragas é jogar aquele barril que estoura em alguns segundos 
    - Depois disso, dá aquela barrigada **E** e aperta **W** de novo pra garantir o dano.
 
 Se a **E** não alcançar, analize o jogo e veja a wave pra não perder farm. (O Gragas precisa muito farm pra fechar alguns itens, então faça de tudo pra farmar catapa)
-## Build Recomendada (Build padrão pra gragas)
+
+#### Build Recomendada (Build padrão pra gragas)
 
 
 ## Combo bacana (Level 6 no minimo)
