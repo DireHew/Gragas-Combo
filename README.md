@@ -2,7 +2,9 @@
 
 Apertar o **Q** do Gragas é jogar aquele barril que estoura em alguns segundos ou quando você quiser. O dano da explosão dependendo da build é bacana. Já a **ult** do Gragas é outro tipo de barril, ele explode e da IK em alguns inimigos com pouca vida, ele puxa ou empurra os inimigos em sua grande utilidade. O **W** aumenta o dano do auto-ataque e a **E** é aquela barrigada que stunna.
 
-### Combo Básico
+#### Cuidado com a sua mana, o Gragas gasta muita mana com habilidades!
+
+### Combo Básico (Level 7 Requerido)
 
 1. Se o cara estiver **na lane farmando** (e achando que tá safe), você vai fazer o seguinte:
    - Aperta o **W**, ele vai sair na fuga achando que você vai rushar direto nele.
@@ -14,7 +16,7 @@ Se a **E** não alcançar, analize o jogo e veja a wave pra não perder farm. (O
 ## Build Recomendada (Build padrão pra gragas)
 
 
-## Combo bacana
+## Combo bacana (Level 6 no minimo)
 
 1. Posiciona o **Q** do Gragas como eu falei anteriormente.
 2. Carrega o **W**, vai dar aquele "engage" com certeza.
